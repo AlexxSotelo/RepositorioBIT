@@ -1,0 +1,11 @@
+Hola profe, 
+
+Traté de exportar las gráficas como me comentó, a una carpeta llamada "Gráficas". 
+
+Intenté realizar un análisis respecto
+a la información del documento CSV para poder dar utilidad a las gráficas, mi análisis es poco profesional y si me puede
+dar feedback al respecto, estaría muy agradecido ya que no me encuentro muy seguro sobre mis conocimientos estadísticos
+pero me encuentro comprometido con la causa de ser un buen Data Scientific.
+
+Muchas gracias,
+Alexander Sotelo.
